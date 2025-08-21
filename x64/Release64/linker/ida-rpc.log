@@ -1,0 +1,28 @@
+﻿  main.cpp
+  options.cpp
+main.obj : warning LNK4197: Export "PLUGIN" wurde mehrmals angegeben; erste Angabe wird verwendet.
+     Bibliothek "C:\Users\HUTAOSHUSBAND\source\repos\ida-rpc-ida9.1\x64\Release64\ida-rpc64.lib" und Objekt "C:\Users\HUTAOSHUSBAND\source\repos\ida-rpc-ida9.1\x64\Release64\ida-rpc64.exp" werden erstellt.
+  Code wird generiert.
+  Not all modules are compiled with -Gy (function comdat), build without incremental LTCG.
+  Codegenerierung ist abgeschlossen.
+  ida-rpc.vcxproj -> C:\Users\HUTAOSHUSBAND\source\repos\ida-rpc-ida9.1\x64\Release64\ida-rpc64.dll
+  Der Befehl "pwsh.exe" ist entweder falsch geschrieben oder
+  konnte nicht gefunden werden.
+  copy to bin folder
+  Ist das Ziel C:\Users\HUTAOSHUSBAND\source\repos\ida-rpc-ida9.1\x64\bin ein Dateiname
+  oder ein Verzeichnisname
+  (D = Datei, V = Verzeichnis)? ´
+  Ist das Ziel C:\Users\HUTAOSHUSBAND\source\repos\ida-rpc-ida9.1\x64\bin ein Dateiname
+  oder ein Verzeichnisname
+  (D = Datei, V = Verzeichnis)? ╗
+  Ist das Ziel C:\Users\HUTAOSHUSBAND\source\repos\ida-rpc-ida9.1\x64\bin ein Dateiname
+  oder ein Verzeichnisname
+  (D = Datei, V = Verzeichnis)? ┐
+  Ist das Ziel C:\Users\HUTAOSHUSBAND\source\repos\ida-rpc-ida9.1\x64\bin ein Dateiname
+  oder ein Verzeichnisname
+  (D = Datei, V = Verzeichnis)? ┐
+  Ist das Ziel C:\Users\HUTAOSHUSBAND\source\repos\ida-rpc-ida9.1\x64\bin ein Dateiname
+  oder ein Verzeichnisname
+  (D = Datei, V = Verzeichnis)? 
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: Der Befehl "xcopy "C:\Users\HUTAOSHUSBAND\source\repos\ida-rpc-ida9.1\x64\Release64\ida-rpc64.dll" "C:\Users\HUTAOSHUSBAND\source\repos\ida-rpc-ida9.1\x64\bin" /i /y
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: :VCEnd" wurde mit dem Code 2 beendet.
